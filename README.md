@@ -2,7 +2,7 @@
 
 A collection of interactive generative art experiments built with p5.js.
 
-🌐 **Live Demo**: [https://yourusername.github.io/flow-field-experiments/](https://yourusername.github.io/flow-field-experiments/)
+🌐 **Live Demo**: [https://lorenzoromagnoli.github.io/viztoys/](https://lorenzoromagnoli.github.io/viztoys/)
 
 ## 🎨 Experiments
 
@@ -19,18 +19,18 @@ Interactive particle system with customizable flow fields.
 - 💾 Export as SVG vector graphics
 - ⚙️ Extensive parameter controls
 
-**Live Demo**: [Flow Field Generator](https://yourusername.github.io/flow-field-experiments/experiments/flow-field-generator/)
+**Live Demo**: [Flow Field Generator](https://lorenzoromagnoli.github.io/viztoys/experiments/flow-field-generator/)
 
 ## 🚀 Getting Started
 
 ### View Online
-Visit the [live demo](https://yourusername.github.io/flow-field-experiments/) to try all experiments directly in your browser.
+Visit the [live demo](https://lorenzoromagnoli.github.io/viztoys/) to try all experiments directly in your browser.
 
 ### Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/flow-field-experiments.git
-   cd flow-field-experiments
+   git clone https://github.com/lorenzoromagnoli/viztoys.git
+   cd viztoys
    ```
 
 2. Open `index.html` in your browser, or use a local server:
@@ -101,7 +101,7 @@ Future experiments coming soon! Feel free to fork and create your own variations
 ## 👤 Author
 
 **Lorenzo**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@lorenzoromagnoli](https://github.com/lorenzoromagnoli)
 
 ## 🙏 Acknowledgments
 
